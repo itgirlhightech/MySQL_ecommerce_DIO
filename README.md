@@ -40,6 +40,6 @@
 ![Tabela produtfornecedores](img/Captura%20de%20tela%202025-10-03%20183326.png)
 
 
-[ Clique aqui para ver o Modelo ER](img/ERmodel/ERecommerce.png)
+### - [ Clique aqui para ver o Modelo ER](img/ERmodel/ERecommerce.png)
 
 
